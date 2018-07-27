@@ -30,7 +30,7 @@ function destructivelyRemoveFirstKitten () {
 kittens = ["Milo", "Otis", "Garfield"];
 
 function appendkitten(name) {
-  
+  kittens.splice()
 }
 
 function prependKitten (name) {
